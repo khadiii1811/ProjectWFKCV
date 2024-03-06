@@ -1,0 +1,15 @@
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\bin\Debug\ProjectFinalWF.exe.config
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\bin\Debug\ProjectFinalWF.exe
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\bin\Debug\ProjectFinalWF.pdb
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.csproj.AssemblyReference.cache
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.Properties.Resources.resources
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.UCLogin.resources
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.csproj.GenerateResource.cache
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.csproj.CoreCompileInputs.cache
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.exe
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.pdb
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.Login.resources
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.UCSignUp.resources
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.SignUp.resources
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.UCNavigator.resources
+C:\Users\ToanKhoa\Desktop\WorkSpace\Winform\ProjectFinalWF\ProjectFinalWF\obj\Debug\ProjectFinalWF.Home.resources
